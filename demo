@@ -1,9 +1,0 @@
-var tempArray = [2,1,4,5,7,6,8,9,10];
-
-
-// fill method is use to fill all the values and if we provide the range it will fill acc to the range we provide
-// console.log((tempArray.fill("Novalue",3)));
-
-var number = [23,42,55,61,22,21,40];
-//filter is use to filter the value you want
-console.log(number.filter((num) => (num!=40)));
